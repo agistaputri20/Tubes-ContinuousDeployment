@@ -136,5 +136,7 @@ class FibonacciTest {
         String actual = Fibonacci.printFibonacciSeries(12);
         assertEquals(expected, actual);
         log.info("Test for printing long string passed!");
+        log.info("Test for printing long string passed!");
+        log.info("Test for printing long string passed!");
     }
 }
