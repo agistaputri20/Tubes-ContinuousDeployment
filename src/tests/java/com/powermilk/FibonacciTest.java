@@ -138,5 +138,8 @@ class FibonacciTest {
         log.info("Test for printing long string passed!");
         log.info("Test for printing long string passed!");
         log.info("Test for printing long string passed!");
+        log.info("Test for printing long string passed!");
+        log.info("Test for printing long string passed!");
+        log.info("Test for printing long string passed!");
     }
 }
